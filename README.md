@@ -1,2 +1,2 @@
-# WordlePy
-Python bot for solving Wordle. Includes code for running simulations.
+# WordleHELPER
+Python script for helping with Wordle Puzzles
